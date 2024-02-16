@@ -1,3 +1,5 @@
+package a01interfacedemo1;
+
 public class Dog extends Animal implements Swim{
     public Dog() {
     }

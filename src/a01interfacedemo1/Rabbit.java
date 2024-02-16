@@ -1,3 +1,5 @@
+package a01interfacedemo1;
+
 public class Rabbit extends Animal{
     public Rabbit() {
     }
